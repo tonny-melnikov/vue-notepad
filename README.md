@@ -1,2 +1,2 @@
-# vue-simple-game-1
+# Dummy Vue notepad
 Vue simple example
